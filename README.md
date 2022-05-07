@@ -3,3 +3,5 @@
 Playing with git
 
 My first commit
+
+Second commit
